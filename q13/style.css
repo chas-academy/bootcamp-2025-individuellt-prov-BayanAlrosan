@@ -9,9 +9,16 @@
   padding: 2rem;
   display: flex;
   background-color: #fff5ec;
+  gap: 20px;
+  align-items: center;
 }
 
 .box {
   padding: 0.5rem;
   background-color: #ffd5c2;
+  flex: 1;
+}
+.other-box {
+  flex: 2;
+  flex: 2;
 }

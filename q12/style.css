@@ -1,3 +1,9 @@
 body {
   margin: 0;
+  background-color: #333;
+  padding: 20px;
 }
+h1 { color: white;}
+p:first-of-type {
+  font-style: italic;}
+p:last-of-type{ color: white; }
